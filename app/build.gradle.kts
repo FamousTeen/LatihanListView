@@ -5,12 +5,12 @@ plugins {
 
 android {
     namespace = "praktikum.c14220059.latihanlistview"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "praktikum.c14220059.latihanlistview"
         minSdk = 30
-        targetSdk = 34
+        targetSdk = 35
         versionCode = 1
         versionName = "1.0"
 
